@@ -1,6 +1,6 @@
 .headerm,
 #main-header {
-    color: rgb(255, 174, 0);
+    color: rgb(194, 143, 3);
     font-family: 'Courier New', Courier, monospace;
 }
 .introm {
@@ -8,5 +8,5 @@
     color: darkorange;
 }
 #main-page {
-    background-color: olivedrab;
+    background-color: rgb(184, 211, 130);
 }
